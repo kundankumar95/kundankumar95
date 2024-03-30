@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankumar95&label=Profile%20views&color=0e75b6&style=flat" alt="kundankumar95" /> </p>
 
-- 🔭 I’m currently working on IEMCRP (https://github.com/kundankumar95/IEMCRP)
+- 🔭 I’m currently working on IEMCRP [https://github.com/kundankumar95/IEMCRP)
 
 - 🌱 I’m currently learning **AI ML**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kundanburnwal32434@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NKYYYZaMpXh1gD3y6hnWUYkFQjejJG7-Y0GxJ_tqsgg/edit?usp=sharing](https://docs.google.com/document/d/1NKYYYZaMpXh1gD3y6hnWUYkFQjejJG7-Y0GxJ_tqsgg/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1FdxTQo5CEmPEQzLkOVC7Nca0WWeTd8Jys_ILI2C92SE/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
