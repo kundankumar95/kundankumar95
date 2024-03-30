@@ -1,7 +1,7 @@
 ![logo](https://github.com/kundankumar95/kundankumar95/blob/main/frame.jpg)
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">I'm a Passionate Full Stack Developer excel in front-end, back-end, and Competitive Programming  enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif  ">
+<img align="right" alt="coding" width="400" src=" https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankumar95&label=Profile%20views&color=0e75b6&style=flat" alt="kundankumar95" /> </p>
 
