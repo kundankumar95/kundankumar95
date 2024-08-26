@@ -6,7 +6,7 @@
 </div>
   
 ## :smiley: About Me:
-<p> I am a passionate Full Stack Developer and competitive programmer, currently pursuing my B.Tech in Computer Science and Information Technology. I have strong experience working with the MERN stack, Python, Java, and C++, and have solved over 350 problems on LeetCode and 500+ problems on HackerRank.
+<p> I am a passionate Full Stack Developer and competitive programmer, currently pursuing my B.Tech in Computer Science and Information Technology. I have strong experience working with the MERN stack, Python, Java, and C++, and have solved over 350 problems on LeetCode and 500+ problems on HackerRank. I am also a proud winner of the Smart India Hackathon.
 </p>
 
 ## 🌐 Socials:
@@ -33,6 +33,4 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundankumar95&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)
 </div>
 <hr/>
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=kundankumar95&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
