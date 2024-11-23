@@ -25,10 +25,10 @@
 
 ## 🏆 LeetCode Challenges:
 <div align="center">
-![200-Day Batch](https://progress-bar.dev/75/?title=200-Day%20Batch&color=brightgreen)
-![100-Day Batch](https://progress-bar.dev/50/?title=100-Day%20Batch&color=blue)
-![50-Day Batch 1](https://progress-bar.dev/40/?title=50-Day%20Batch%201&color=orange)
-![50-Day Batch 2](https://progress-bar.dev/90/?title=50-Day%20Batch%202&color=purple)
+<img src="https://img.shields.io/badge/200--Day%20Batch-Completed-brightgreen?style=for-the-badge" alt="200-Day Batch">
+<img src="https://img.shields.io/badge/100--Day%20Batch-In%20Progress-blue?style=for-the-badge" alt="100-Day Batch">
+<img src="https://img.shields.io/badge/50--Day%20Batch%201-In%20Progress-orange?style=for-the-badge" alt="50-Day Batch 1">
+<img src="https://img.shields.io/badge/50--Day%20Batch%202-Almost%20Done-purple?style=for-the-badge" alt="50-Day Batch 2">
 </div>
 
 ## 📊 GitHub Stats:
