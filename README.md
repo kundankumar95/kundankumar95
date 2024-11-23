@@ -34,8 +34,5 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundankumar95&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)
 </div>
 <hr/>
-## 🏆 LeetCode:
-<div align="center">
-![LeetCode Stats](https://leetcode.card.workers.dev/kundankumar95?theme=dark&font=source_code_pro&extension=null)
-</div>
+
 
