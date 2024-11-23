@@ -23,13 +23,6 @@
 ## 🛠️ Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
-## 🏆 LeetCode Challenges:
-<div align="center">
-<img src="https://img.shields.io/badge/200--Day%20Batch-Completed-brightgreen?style=for-the-badge" alt="200-Day Batch">
-<img src="https://img.shields.io/badge/100--Day%20Batch-In%20Progress-blue?style=for-the-badge" alt="100-Day Batch">
-<img src="https://img.shields.io/badge/50--Day%20Batch%201-In%20Progress-orange?style=for-the-badge" alt="50-Day Batch 1">
-<img src="https://img.shields.io/badge/50--Day%20Batch%202-Almost%20Done-purple?style=for-the-badge" alt="50-Day Batch 2">
-</div>
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -41,4 +34,8 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundankumar95&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)
 </div>
 <hr/>
+## 🏆 LeetCode:
+<div align="center">
+![LeetCode Stats](https://leetcode.card.workers.dev/kundankumar95?theme=dark&font=source_code_pro&extension=null)
+</div>
 
