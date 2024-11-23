@@ -23,6 +23,14 @@
 ## 🛠️ Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
+## 🏆 LeetCode Challenges:
+<div align="center">
+![200-Day Batch](https://progress-bar.dev/75/?title=200-Day%20Batch&color=brightgreen)
+![100-Day Batch](https://progress-bar.dev/50/?title=100-Day%20Batch&color=blue)
+![50-Day Batch 1](https://progress-bar.dev/40/?title=50-Day%20Batch%201&color=orange)
+![50-Day Batch 2](https://progress-bar.dev/90/?title=50-Day%20Batch%202&color=purple)
+</div>
+
 ## 📊 GitHub Stats:
 <div align="center">
   
