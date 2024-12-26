@@ -6,7 +6,7 @@
 </div>
   
 ## :smiley: About Me:
-<p> I am a passionate Full Stack Developer and competitive programmer, currently pursuing my B.Tech in Computer Science and Information Technology. I have strong experience working with the MERN stack, Python, Java, and C++, and have solved over 350 problems on LeetCode and 500+ problems on HackerRank. I am also a proud winner of the Smart India Hackathon.
+<p> I am a passionate Full Stack Developer and competitive programmer, currently pursuing my B.Tech in Computer Science and Information Technology. I have strong experience working with the MERN stack, Python, Java, and C++, and have solved over 500+ problems on LeetCode and 500+ problems on HackerRank. I am also a proud winner of the Smart India Hackathon.
 </p>
 
 ## 🌐 Socials:
